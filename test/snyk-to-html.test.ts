@@ -742,12 +742,12 @@ test('IaC input - all-around test', (t) => {
       );
       t.contains(
         report,
-        '<a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">More about this issue</a>',
+        '<a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">More about this issue</a>',
         'should contain a link to the security rules site',
       );
       t.contains(
         report,
-        '<a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a>',
+        '<a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a>',
         'should contain public ID of the issue',
       );
       t.contains(
@@ -932,6 +932,24 @@ test('test snyk-to-html container app vulnerabilities', (t) => {
         report,
         '<a href="https://snyk.io/vuln/SNYK-GOLANG-GOLANGORGXCRYPTOSSH-551923">More about this vulnerability</a>',
         'should contain a link to a vulnerability in the application',
+      );
+    },
+  );
+});
+
+test('test snyk-to-html with custom path descriptors', (t) => {
+  t.plan(1);
+  // report generated with "snyk container test --all-projects --json" on a nuget multi-project with more than one path
+  SnykToHtml.run(
+    path.join(__dirname, 'fixtures', 'test-report-nuget-multi-project.json'),
+    noRemediation,
+    path.join(__dirname, '..', 'template', 'test-report.hbs'),
+    noSummary,
+    (report) => {
+      t.contains(
+        report,
+        '<li class="paths">/root/nugetMultiProjectRepo/DotNetMultiProject/SomeProject.RandomProject.API/obj/project.assets.json (nuget)</li>',
+        'should contain vulnerabilities related to the base image',
       );
     },
   );

@@ -28,7 +28,7 @@ node ./dist/index.js
 | ----- | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | `-t`  | `--template`               | Template location for generating the html. Defaults to template/test-report.hbs                                  |
 | `-i`  | `--input`                  | Input path from where to read the json. Defaults to stdin                                                        |
-| `-o`  | `--output`                 | Output of the resulting HTML. Example: -o snyk.html. Defaults to stdout                                          |
+| `-o`  | `--output`                 | Output of the resulting HTML. Example: `-o snyk.html`. Defaults to stdout                                        |
 | `-s`  | `--summary`                | Generates an HTML with only the summary, instead of the details report. Defaults to details vulnerability report |
 | `-d`  | `--debug`                  | Runs the CLI in debug mode                                                                                       |
 | `-a`  | `--actionable-remediation` | Display actionable remediation info if available                                                                 |
@@ -37,13 +37,38 @@ When in doubt, use `snyk-to-html --help` or `snyk-to-html -h`.
 
 ## Generate the HTML report
 
-Change directory to your package's root folder, then use of the two ways below to generate the HTML report.
+Snyk JSON to HTML Mapper mapper works with the different Snyk Products.  Change the directory to your package's root folder, then use  one of the  ways below to generate the HTML report, using the appropriate product's command
 
 1. Directly streaming the results to snyk-to-html:
 
-   Run the following line to create a file called `results.html`:
+   **For Snyk Open Source**
 
-   `snyk test --json | snyk-to-html -o results.html`
+      Run the following line to create a file called `results-opensource.html`:
+
+      `snyk test --json | snyk-to-html -o results-opensource.html`
+
+   **For Snyk Code**
+
+      Run the following line to create a file called `results-code.html`:
+
+      `snyk code test --json | snyk-to-html -o results-code.html`
+
+
+   **For Snyk Infrastructure as Code (IaC)**
+      Navigate to the subfolder with the related files.
+
+      Run the following line to create a file called `results-iac.html`:
+
+      `snyk iac test --json | snyk-to-html -o results-iac.html`
+
+
+   **For Snyk Container**
+
+    Run the following line to create a file called `results-container.html`:
+
+      `snyk container test [image] --json | snyk-to-html -o results-container.html`
+
+      The following methods/examples will utilize snyk test, however they will also work with the other product commands , as above.
 
 2. Using a temporary file:
 
@@ -83,7 +108,12 @@ Change directory to your package's root folder, then use of the two ways below t
 
 ## View the HTML report
 
-Simply open your new file (`results.html` above) in a browser, and rejoice.
+Simply open your new file (`results-[type].html` as above) in a browser, and rejoice.
+
+
+## Getting support for snyk-to-html
+
+[Submit a ticket](https://support.snyk.io/hc/en-us/requests/new) to Snyk support when you need help with `snyk-to-html` or Snyk in general. Note that Snyk support does not actively monitor GitHub Issues on any [Snyk development project](https://github.com/snyk).
 
 ### License
 

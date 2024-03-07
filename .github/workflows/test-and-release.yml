@@ -1,7 +1,8 @@
 name: 'Test and release snyk-to-html'
 
 on:
-  push
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   lint: 
@@ -66,12 +67,12 @@ jobs:
           key: ${{ runner.os }}-node-14-${{ hashFiles('**/package.json') }}
           restore-keys: ${{ runner.os }}-node-14-
       - run: npm install
-      - run: npm i -g semantic-release @semantic-release/exec
-      - run: semantic-release
+      - run: npm i -g --save-exact semantic-release@21.0.2 @semantic-release/exec@6.0.3
+      - run: npx -p node@v18-lts -c "semantic-release"
         env:
           PUBLIC_S3_BUCKET: ${{secrets.PUBLIC_S3_BUCKET}}
           AWS_DEFAULT_REGION: ${{secrets.AWS_DEFAULT_REGION}}
           AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY_ID}}
           AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          NPM_TOKEN: ${{secrets.NPM_TOKEN}}
+          NPM_TOKEN: ${{secrets.HAMMERHEAD_NPM_TOKEN}}

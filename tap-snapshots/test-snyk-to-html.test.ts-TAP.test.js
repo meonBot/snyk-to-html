@@ -526,7 +526,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -548,7 +548,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -564,7 +564,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -586,7 +586,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -602,7 +602,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-625">SNYK-CC-AZURE-625</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-625">SNYK-CC-AZURE-625</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -624,7 +624,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-625">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-625">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -640,7 +640,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-624">SNYK-CC-AZURE-624</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-624">SNYK-CC-AZURE-624</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -662,7 +662,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-624">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-624">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -716,7 +716,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-149">SNYK-CC-TF-149</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-149">SNYK-CC-TF-149</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -738,7 +738,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-149">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-149">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -754,7 +754,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -776,7 +776,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -792,7 +792,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -814,7 +814,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-163">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -830,7 +830,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -852,7 +852,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-161">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -868,7 +868,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -890,7 +890,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-162">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -906,7 +906,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-136">SNYK-CC-TF-136</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-136">SNYK-CC-TF-136</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -925,7 +925,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-136">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-136">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -941,7 +941,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-175">SNYK-CC-TF-175</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-175">SNYK-CC-TF-175</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -961,7 +961,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-175">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-175">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -990,7 +990,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1012,7 +1012,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1028,7 +1028,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-500">SNYK-CC-AZURE-500</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-500">SNYK-CC-AZURE-500</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1050,7 +1050,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-500">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-500">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1066,7 +1066,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1088,7 +1088,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1104,7 +1104,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-144">SNYK-CC-TF-144</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-144">SNYK-CC-TF-144</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1126,7 +1126,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-144">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-144">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1142,7 +1142,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1164,7 +1164,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1180,7 +1180,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1202,7 +1202,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-163">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1218,7 +1218,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1240,7 +1240,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-161">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1256,7 +1256,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1278,7 +1278,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-162">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1307,7 +1307,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-516">SNYK-CC-AZURE-516</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-516">SNYK-CC-AZURE-516</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1329,7 +1329,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-516">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-516">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1358,7 +1358,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">SNYK-CC-AZURE-533</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1380,7 +1380,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-533">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-533">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1396,7 +1396,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-500">SNYK-CC-AZURE-500</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-500">SNYK-CC-AZURE-500</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1418,7 +1418,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-500">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-500">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1434,7 +1434,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">SNYK-CC-AZURE-619</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1456,7 +1456,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-619">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-619">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1472,7 +1472,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-144">SNYK-CC-TF-144</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-144">SNYK-CC-TF-144</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1494,7 +1494,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-144">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-144">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1510,7 +1510,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">SNYK-CC-AZURE-618</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1532,7 +1532,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-AZURE-618">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-AZURE-618">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1548,7 +1548,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">SNYK-CC-TF-163</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1570,7 +1570,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-163">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-163">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1586,7 +1586,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">SNYK-CC-TF-161</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1608,7 +1608,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-161">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-161">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1624,7 +1624,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">SNYK-CC-TF-162</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1646,7 +1646,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-162">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-162">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -1675,7 +1675,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
               
                       <ul class="card__meta">
                           <li class="card__meta__item">
-                              Public ID: <a href="https://snyk.io/security-rules/SNYK-CC-TF-244">SNYK-CC-TF-244</a> 
+                              Public ID: <a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-244">SNYK-CC-TF-244</a> 
                           </li>
               
                           <li class="card__meta__item">Introduced through:
@@ -1697,7 +1697,7 @@ exports[`test/snyk-to-html.test.ts TAP IaC input - test snyk-to-html handles -s 
                   </div><!-- .card__section -->
               
                   <div class="cta card__cta">
-                      <p><a href="https://snyk.io/security-rules/SNYK-CC-TF-244">More about this issue</a></p>
+                      <p><a href="https://security.snyk.io/rules/cloud//SNYK-CC-TF-244">More about this issue</a></p>
                   </div>
               
               </div><!-- .card -->
@@ -2176,7 +2176,8 @@ exports[`test/snyk-to-html.test.ts TAP template output displays vulns in descend
               <div class="source-panel">
                 <span>Scanned the following paths:</span>
                 <ul>
-                  <li class="paths">./java-goof (maven)</li><li class="paths">./goof (npm)</li>
+                  <li class="paths">./java-goof (maven)</li>
+                  <li class="paths">./goof (npm)</li>
                 </ul>
               </div>
     
@@ -3597,7 +3598,7 @@ exports[`test/snyk-to-html.test.ts TAP template output displays vulns in descend
         <li><a href="https://github.com/apache/commons-fileupload/blob/b1498c9877d751f8bc4635a6f252ebdfcba28518/src/changes/changes.xml#L84">Github ChangeLog</a></li>
         <li><a href="https://bugzilla.redhat.com/show_bug.cgi?id=1349475">Redhat Bugzilla</a></li>
         <li><a href="http://mail-archives.us.apache.org/mod_mbox/www-announce/201606.mbox/%3C6223ece6-2b41-ef4f-22f9-d3481e492832@apache.org%3E">Apache Mailing Archives</a></li>
-        <li><a href="http://svn.apache.org/viewvc/commons/proper/fileupload/trunk/RELEASE-NOTES.txt?r1=1745717&amp;r2=1749637&amp;diff_format=h">Apache-SVN</a></li>
+        <li><a href="http://svn.apache.org/viewvc/commons/proper/fileupload/trunk/RELEASE-NOTES.txt?r1=1745717&r2=1749637&diff_format=h">Apache-SVN</a></li>
         <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3092">CVE</a></li>
         </ul>
         
@@ -6541,7 +6542,7 @@ exports[`test/snyk-to-html.test.ts TAP test snyk-to-html handles -a argument cor
               <div class="source-panel">
                 <span>Scanned the following path:</span>
                 <ul>
-                  <li class="paths">/path/to/npm-lockfile-with-vulns (npm)</li>
+                  <li class="paths">/path/to/npm-lockfile-with-vulns/package-lock.json (npm)</li>
                 </ul>
               </div>
     
@@ -7192,7 +7193,7 @@ exports[`test/snyk-to-html.test.ts TAP test snyk-to-html handles -s argument cor
               <div class="source-panel">
                 <span>Scanned the following path:</span>
                 <ul>
-                  <li class="paths">/path/to/npm-lockfile-with-vulns (npm)</li>
+                  <li class="paths">/path/to/npm-lockfile-with-vulns/package-lock.json (npm)</li>
                 </ul>
               </div>
     
@@ -8134,7 +8135,7 @@ exports[`test/snyk-to-html.test.ts TAP test snyk-to-html shows remediation & sum
               <div class="source-panel">
                 <span>Scanned the following path:</span>
                 <ul>
-                  <li class="paths">/Users/lili/www/snyk-fixtures/python-pip-app-with-vulns (pip)</li>
+                  <li class="paths">/Users/lili/www/snyk-fixtures/python-pip-app-with-vulns/requirements.txt (pip)</li>
                 </ul>
               </div>
     
@@ -8935,7 +8936,7 @@ exports[`test/snyk-to-html.test.ts TAP test snyk-to-html shows remediation with 
               <div class="source-panel">
                 <span>Scanned the following path:</span>
                 <ul>
-                  <li class="paths">/Users/lili/www/snyk-fixtures/python-pip-app-with-vulns (pip)</li>
+                  <li class="paths">/Users/lili/www/snyk-fixtures/python-pip-app-with-vulns/requirements.txt (pip)</li>
                 </ul>
               </div>
     
